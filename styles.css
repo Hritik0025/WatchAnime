@@ -83,6 +83,17 @@ nav ul li a {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.show p {
+    color: #333; /* Change #333 to your desired color value */
+}
+
+.show p {
+    font-family: "Gill Sans", sans-serif; /* Change "Arial" to your desired font family */
+}
+
+.show p {
+    color: #0a0a0a; /* Change #333 to your desired color value */
+}
 footer {
     background-color: #111;
     color: #fff;
